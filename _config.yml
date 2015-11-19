@@ -3,13 +3,13 @@ title: Sam Milechman
 email: sammilechman@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   I'm a software engineer at PagerDuty,
-  resident of North Beach (San Francsico),
+  resident of North Beach (San Francisco),
   eternal student,
   aspiring world traveller,
   and deli sandwich enthusiast.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: sam_el_lechero
+twitter_username: sammilechman
 github_username:  sammilechman
 
 # Build settings
